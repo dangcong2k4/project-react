@@ -1,0 +1,49 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "namqw",
+      "dateOfBirth": "2023-05-19"
+    },
+    {
+      "name": "cong23",
+      "dateOfBirth": "15-08-2004",
+      "id": 2
+    },
+    {
+      "name": "hahah",
+      "dateOfBirth": "23-12-2012",
+      "id": 3
+    },
+    {
+      "name": "Dungx",
+      "dateOfBirth": "15-08-2002",
+      "id": 4
+    },
+    {
+      "name": "dung234",
+      "dateOfBirth": "2002-06-05",
+      "id": 5
+    },
+    {
+      "name": "xfgnxfn",
+      "dateOfBirth": "2014-03-14",
+      "id": 7
+    },
+    {
+      "name": "xfhn xfg ",
+      "dateOfBirth": "2009-01-28",
+      "id": 8
+    },
+    {
+      "name": "fafafafaf",
+      "dateOfBirth": "1920-07-21",
+      "id": 11
+    },
+    {
+      "name": "wewew",
+      "dateOfBirth": "2023-05-04",
+      "id": 12
+    }
+  ]
+}
